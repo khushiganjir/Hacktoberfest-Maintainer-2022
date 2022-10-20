@@ -34,4 +34,5 @@ Project Admin and Maintainer of this Hacktoberfest-Repo-2022
 7.HI, Myself **H.L.LIKITA**
 Currently pursuing B.TECH CSE 
 I am a 3rd year student.
+My college name is SSTC.
 
