@@ -32,3 +32,5 @@ Fourth Pr
 Project Admin and Maintainer of this Hacktoberfest-Repo-2022
 
 7.HI, Myself **H.L.LIKITA**
+Currently pursuing B.TECH CSE 
+
