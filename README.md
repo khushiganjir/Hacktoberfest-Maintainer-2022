@@ -38,9 +38,9 @@ My college name is SSTC.
 
 8.Hi MYself **Kamana Banjare**
   It's my first pull request.
-  I'am in 3rd sem .
+  I'am in 3rd sem.
   My branch is cse(iot).
   
 9. Hello Myself **Devyani Khushi Ganjir**
 It's my first pull request.
- 
+ I'am studying in 3rd sem.
